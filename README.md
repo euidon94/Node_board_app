@@ -95,7 +95,7 @@ Node.js(Express)와 React, MongoDB를 활용한 게시판 웹 애플리케이션
 
 ## 프로젝트 구조
 
-'''
+```
 Node_board_app/
 ├── backend/ # Node.js Express 백엔드
 │ ├── uploads/ # 업로드 파일 저장 디렉토리
@@ -110,7 +110,7 @@ Node_board_app/
 │ └── Dockerfile # 프론트엔드 Docker 빌드 설정
 ├── docker-compose.yml # Docker Compose 설정
 └── README.md # 프로젝트 설명
-'''
+```
 
 
 ---
